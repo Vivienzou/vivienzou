@@ -1,7 +1,7 @@
 vivienzou
 =========
-#This is a program to compute the sin, cos and tan based on 2 given sides by users
-#the code is here
+#This is a program to compute the sin, cos and tan based on 2 given sides by users.
+#the code is here:
 
 def f(a,b):
   
